@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/d4nlhqewdboufwq",
+      "destination": "/index.html"
+    }
+  ]
+}
